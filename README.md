@@ -9,17 +9,17 @@ This is a new [**React JS**](https://react.dev/) project, bootstrapped using [`t
 [![NPM Version](https://img.shields.io/npm/v/react-native-webview.svg?style=flat-square)](https://www.npmjs.com/package/react-native-webview)
 ![Npm Downloads](https://img.shields.io/npm/dm/react-native-webview.svg)
 
-<img src="https://github.com/reactnative1126/DrivinGo_ReactJS_AI/blob/master/public/assets/logos/long_primary.png" width="150">
+<img src="https://github.com/starmastar1126/DrivinGo_ReactJS_AI/blob/master/public/assets/logos/long_primary.png" width="150">
 
 ## Preview
 
 Welcome to my project! Below are my favorite videos & screenshots related to this project:
 
 <a href="https://youtu.be/8lCJF9T1Goo">
-   <img src="https://github.com/reactnative1126/DrivinGo_ReactJS_AI/blob/master/public/assets/screens/1.png" width="500" alt="Screen 3" hspace="5">
+   <img src="https://github.com/starmastar1126/DrivinGo_ReactJS_AI/blob/master/public/assets/screens/1.png" width="500" alt="Screen 3" hspace="5">
 </a>
 
-<img src="https://github.com/reactnative1126/DrivinGo_ReactJS_AI/blob/master/public/assets/screens/2.png" width="250" alt="Screen 1" hspace="5"> <img src="https://github.com/reactnative1126/DrivinGo_ReactJS_AI/blob/master/public/assets/screens/3.png" width="250" alt="Screen 5" hspace="5"> <img src="https://github.com/reactnative1126/DrivinGo_ReactJS_AI/blob/master/public/assets/screens/4.png" width="250" alt="Screen 4" hspace="5">
+<img src="https://github.com/starmastar1126/DrivinGo_ReactJS_AI/blob/master/public/assets/screens/2.png" width="250" alt="Screen 1" hspace="5"> <img src="https://github.com/starmastar1126/DrivinGo_ReactJS_AI/blob/master/public/assets/screens/3.png" width="250" alt="Screen 5" hspace="5"> <img src="https://github.com/starmastar1126/DrivinGo_ReactJS_AI/blob/master/public/assets/screens/4.png" width="250" alt="Screen 4" hspace="5">
 
 ## Getting Started
 
